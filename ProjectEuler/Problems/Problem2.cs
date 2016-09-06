@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectEuler
+namespace ProjectEuler.Problems
 {
-    public class Class1
+    public static class Problem2
     {
+
     }
 }
